@@ -21,6 +21,11 @@
 	"helloimg-pro"
   ],
   "author": "Pfan",
+  "repository": {
+    "type": "git",
+    "ssh": "git clone https://github.com/Mashull/picgo-plugin-helloimg-pro-uploader.git"
+  },
+  "homepage": "https://github.com/Mashull/picgo-plugin-helloimg-pro-uploader",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.25.0",
